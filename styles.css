@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    background-color: #191919;
+}
+
+#wordShown {
+    text-align: center;
+    font-size: 4em;
+    cursor: pointer;
+}
+
+#userTextInput {
+    font-size: 2em;
+}
+
+.correct {
+    color: #32936F;
+}
+
+.error {
+    color: rgb(226, 36, 36);
+}
+
+#gameContent {
+    margin: auto;
+    margin-top: 13%;
+}
+
+#timer {
+    text-align: center;
+    color: #CED0CE;
+}
+
+#stats{
+    width: 80%;
+    color: #e3e3e3;
+    margin: 5% auto;
+    font-size: 30px;
+}
